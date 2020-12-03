@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "689575859836",
+    "firebase_url": "https://kodfln.firebaseio.com",
+    "project_id": "kodfln",
+    "storage_bucket": "kodfln.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689575859836:android:8b8d77a64a262653d21bf9",
+        "android_client_info": {
+          "package_name": "com.kekova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689575859836-qcf1f6p42cpfe3ff3jna8ppslh0r3uob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kekova",
+            "certificate_hash": "71a205965e067b30cae294ea91e6cee7abedd6ca"
+          }
+        },
+        {
+          "client_id": "689575859836-3tjthd5vvv90g10bunstk7ko7rmc41pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeZ6ZfDBVazwN-9gHZTyqNISWV76Wu2S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689575859836-3tjthd5vvv90g10bunstk7ko7rmc41pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
